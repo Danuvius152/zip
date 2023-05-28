@@ -12,7 +12,7 @@
 
 ### 用法
 
-![image-20230528135515676](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230528135515676.png)
+![image](https://github.com/Danuvius152/zip/blob/master/image.png)
 
 选择一种算法后，选择文件进行压缩或解压。
 
